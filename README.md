@@ -1,2 +1,12 @@
 # CarModelPrediction
-Vehicle Classification Mini Project: A hands-on PyTorch project classifying vehicle images (car, truck, bus, van). Demonstrates ML workflow: data loading, preprocessing, CNN model training, evaluation, and visualization. Showcases practical Python &amp; ML skills.
+
+## Overview
+This is a **mini Machine Learning project** built with **PyTorch**, which classifies vehicle images into different categories (e.g., car, truck, bus, etc.).  
+The purpose of this project is to demonstrate **hands-on ML skills**, including data loading, preprocessing, model building, training, evaluation, and visualization.
+
+---
+
+## Dataset
+- **Dataset used:** Mendeley Vehicle Images Dataset (~5600 images)  
+- **Dataset structure:**  
+
