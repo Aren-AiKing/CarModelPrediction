@@ -6,7 +6,6 @@ The purpose of this project is to demonstrate **hands-on ML skills**, including 
 
 ---
 
-## Dataset
 - **Dataset used:** Mendeley Vehicle Images Dataset (~5600 images)  
-- **Dataset structure:**  
+
 
